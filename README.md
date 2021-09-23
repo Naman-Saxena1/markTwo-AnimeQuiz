@@ -1,0 +1,1 @@
+This is a CLI based Javascript app which has 10 MCQ Quiz about Anime for Anime fans
